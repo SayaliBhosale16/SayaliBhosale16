@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 ## About Me
 I'm a passionate computer science graduate with a knack for turning ideas into elegant lines of code. My journey in the tech world involves a Master's in Computer Science and hands-on experience in software engineering. I believe in the power of innovation to shape the future.
+![](https://komarev.com/ghpvc/?username=mansithanki&color=green)
 
 ## 🔧 Skills
 
