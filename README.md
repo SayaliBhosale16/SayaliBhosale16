@@ -14,10 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey there! 👋 I'm Sayali Bhosale
+# I'm Sayali Sanjeevkumar Bhosale
+### A Data and ML Enthusiast, Software Engineer and Web Developer 💻❤️
 
+Welcome to my GitHub page! Here you'll find a my projects, skills and experiences as a passionate and dedicated software developer. I'm currently seeking a full-time SDE opportunity starting from May 2024. Feel free to explore and reach out—I'd love to connect!
 ## About Me
-I'm a passionate computer science graduate with a knack for turning ideas into elegant lines of code. My journey in the tech world involves a Master's in Computer Science and hands-on experience in software engineering. I believe in the power of innovation to shape the future.
+
+Hello, I am Sayali, a passionate **Software Engineer** with specialization in **Machine Learning**.  My journey in the tech world involves a **Master's in Computer Science** from **University of Central Florida** and hands-on experience in software engineering at **Accenture**. My goal is to contribute expertise in web development, database management, and software engineering to diverse projects. Committed to continuous learning, I aim to create innovative solutions while staying updated with emerging technologies.
+
 ![](https://komarev.com/ghpvc/?username=mansithanki&color=green)
 
 ## 🔧 Skills
