@@ -39,7 +39,8 @@ Hello, I am Sayali, a passionate **Software Engineer** with specialization in **
 - [Portfolio]
 
 ## 📄 Resume
-Feel free to check out my [resume](https://drive.google.com/file/d/1qgM_e-Sb2MEHnof294xDBfkd6N0EZIoj/view?usp=sharing) for a more detailed overview of my experience and education.
+Feel free to check out my [resume](https://drive.google.com/file/d/1FOAyPTvmSaDxF2ObKavXVBYHkwMInPs5/view?usp=sharing) for a more detailed overview of my experience and education.
+
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SayaliBhosale16&show_icons=true&theme=radical)
