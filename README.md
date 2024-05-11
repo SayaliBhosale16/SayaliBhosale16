@@ -93,6 +93,6 @@ Feel free to check out my [resume](https://drive.google.com/drive/u/0/folders/1Q
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SayaliBhosale16&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SayaliBhosale16&layout=compact)
+![Top Langs](https://drive.google.com/file/d/1V2dHDysRA_XmBNTwpnRjhlG84HGT7JwA/view?usp=drive_link)
 
 Thanks for visiting my GitHub profile! Let's connect and build something amazing together. 🚀
