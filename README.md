@@ -87,7 +87,7 @@ Hello, I am Sayali, a passionate **Software Engineer** with specialization in **
 - [Portfolio](https://clever-muffin-79420a.netlify.app/)
 
 ## 📄 Resume
-Feel free to check out my [resume](https://drive.google.com/file/d/1FOAyPTvmSaDxF2ObKavXVBYHkwMInPs5/view?usp=sharing) for a more detailed overview of my experience and education.
+Feel free to check out my [resume](https://drive.google.com/drive/u/0/folders/1QTEr3JW6l2svLd7k8YR7MLwfrjAYMH1a) for a more detailed overview of my experience and education.
 
 
 ## 📈 GitHub Stats
