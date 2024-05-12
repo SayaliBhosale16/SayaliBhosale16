@@ -84,7 +84,7 @@ Hello, I am Sayali, a passionate **Software Engineer** with specialization in **
 - [LinkedIn](https://www.linkedin.com/in/bhosale-sayali/)
 - [Email](sayalibhosale202@gmail.com)
 - [GitHub](https://github.com/SayaliBhosale16)
-- [Portfolio](https://clever-muffin-79420a.netlify.app/)
+- [Portfolio](https://sayalibhosale.netlify.app/)
 
 ## 📄 Resume
 Feel free to check out my [resume](https://drive.google.com/drive/u/0/folders/1QTEr3JW6l2svLd7k8YR7MLwfrjAYMH1a) for a more detailed overview of my experience and education.
