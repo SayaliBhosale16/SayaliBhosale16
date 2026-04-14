@@ -23,7 +23,7 @@ Lately: building **LLM agents, RAG systems, and agentic AI** on top of that back
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" /> Stack
 
 <h4>Languages</h4>
-<a href="#"><img src="https://skillicons.dev/icons?i=python,typescript,java,cs,cpp,r&perline=8" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=python,typescript,java,cpp&perline=8" /></a>
 
 <h4>Backend & APIs</h4>
 <a href="#"><img src="https://skillicons.dev/icons?i=fastapi,flask,spring,nodejs,express,graphql&perline=8" /></a>
@@ -50,8 +50,8 @@ Lately: building **LLM agents, RAG systems, and agentic AI** on top of that back
 <h4>Frontend</h4>
 <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js&perline=8" /></a>
 
-<h4>AI / ML · RAG · Agents</h4>
-<a href="#"><img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&perline=8" />
+<h4>LLMs · RAG · Agents</h4>
+<a href="#">
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="38" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="38" />
   <img src="https://img.shields.io/badge/LlamaIndex-4B0082?style=for-the-badge&logo=meta&logoColor=white" height="38" />
@@ -60,6 +60,19 @@ Lately: building **LLM agents, RAG systems, and agentic AI** on top of that back
   <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white" height="38" />
   <img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge&logoColor=white" height="38" />
   <img src="https://img.shields.io/badge/Agentic_AI-7B42BC?style=for-the-badge&logoColor=white" height="38" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F61?style=for-the-badge&logoColor=white" height="38" />
+  <img src="https://img.shields.io/badge/Fine--Tuning-14B8A6?style=for-the-badge&logoColor=white" height="38" />
+</a>
+
+<h4>Machine Learning & NLP</h4>
+<a href="#"><img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&perline=8" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF4B4B?style=for-the-badge&logoColor=white" height="38" />
+  <img src="https://img.shields.io/badge/Neural_Networks-8B5CF6?style=for-the-badge&logoColor=white" height="38" />
+  <img src="https://img.shields.io/badge/Transformers-FFB020?style=for-the-badge&logoColor=white" height="38" />
+  <img src="https://img.shields.io/badge/NLP-10B981?style=for-the-badge&logoColor=white" height="38" />
+  <img src="https://img.shields.io/badge/Feature_Engineering-0EA5E9?style=for-the-badge&logoColor=white" height="38" />
+  <img src="https://img.shields.io/badge/Ensemble_Methods-6366F1?style=for-the-badge&logoColor=white" height="38" />
+  <img src="https://img.shields.io/badge/MLOps-22C55E?style=for-the-badge&logoColor=white" height="38" />
 </a>
 
 ---
