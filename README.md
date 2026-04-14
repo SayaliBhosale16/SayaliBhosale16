@@ -1,62 +1,83 @@
-# Hi, I'm Sayali 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sayali+%F0%9F%91%8B;AI+Engineer+%C2%B7+3+YOE;0%E2%86%921+Builder+%C2%B7+Claude+Code+Native;Python+%2B+TypeScript+%2B+LLMs" alt="Typing SVG" />
+</h1>
 
-**AI Engineer · 3 YOE**
-📍 Orlando, FL · 🎓 MS Computer Science, University of Central Florida (GPA 3.92)
-
-I build TypeScript + Python products at startup velocity — 0→1 SaaS platforms, LLM-powered agent systems, and production ML pipelines. Fluent in AI-accelerated development with Claude Code and Cursor — not autocomplete, but agentic end-to-end implementation.
-
----
-
-## What I'm up to
-
-- Shipping production features at **Stateable** — 56 API endpoints, real-time 5.5M-row data grid, 330+ tests across the platform
-- Building in-app LLM agent subsystems with persistent memory and configurable prompt pipelines
-- Going deeper on local RAG stacks — LlamaIndex, Qdrant, open-weight LLMs
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhosale-sayali/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sayalibh2212@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://sayalibhosale16.github.io"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=SayaliBhosale16&style=for-the-badge&color=f59e0b&label=PROFILE+VIEWS" />
+</p>
 
 ---
 
-## Recent Projects
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px" /> About
 
-### [Freight Analytics Engine](https://github.com/SayaliBhosale16/freight-invoice-ai-system)
-Production-grade dual-model ML system — **Linear Regression** for freight cost prediction (MAE 24.11, R² 0.97) + **Random Forest w/ GridSearchCV** for invoice risk flagging (F1 0.82, ROC-AUC 0.87, Precision 96%). JSON-based model registry with auto-promotion, automated retraining, drift detection, and an observability dashboard. Dockerized with GitHub Actions CI and 17 passing pytest tests.
-`Python` `FastAPI` `scikit-learn` `Docker` `SQLite` `GitHub Actions`
-
-### [RAG AI Agent](https://github.com/SayaliBhosale16/RAG-AI-Agent)
-Fully local RAG pipeline for PDF Q&A — LlamaIndex sentence splitter → all-MiniLM-L6-v2 embeddings → Qdrant cosine retrieval → Qwen2.5-1.5B-Instruct answer generation. Orchestrated with Inngest for event-driven ingestion, retries, and observability. Runs on local GPU (MPS/CUDA) — no OpenAI dependency.
-`FastAPI` `LlamaIndex` `Qdrant` `HuggingFace` `Inngest` `PyTorch`
-
-### [Cold Email Generator](https://github.com/SayaliBhosale16/Cold-Email-Generator-Tool)
-LLM-based cold email generator with semantic search and transfer learning. 95% relevance in semantic search, 60% reduction in manual drafting time.
-`Flask` `Llama 3.1` `ChromaDB` `React Native` `Docker`
-
-### [World Trade Route Analytics](https://github.com/SayaliBhosale16/TradeRouteAnalyzer-)
-Network optimization on 18K+ bilateral trade relationships. PageRank + Dijkstra for critical trade hub identification. 94% accuracy in bottleneck prediction.
-`Python` `NetworkX` `PageRank` `Dijkstra`
+Building **production AI systems** — LLM agents, RAG pipelines, and ML services that actually ship.
+Currently at **Stateable** shipping 0→1 SaaS with Claude Code as a first instinct.
 
 ---
 
-## Stack
-
-**Languages** — Python · TypeScript · Java · SQL · C#/.NET · C++
-**Frontend** — React · Next.js · TanStack · Tailwind · React Native
-**Backend** — FastAPI · Flask · Spring Boot · Node.js · REST · gRPC · WebSockets · Pydantic
-**AI / ML** — Claude Code · Cursor · LangChain · LlamaIndex · RAG Pipelines · ChromaDB · Qdrant · HuggingFace · Sentence Transformers · Llama 3.1 · Qwen 2.5 · scikit-learn · PyTorch · Keras
-**Cloud / DevOps** — AWS (Lambda, Step Functions, S3, RDS) · Azure · Docker · Kubernetes · Terraform · GitHub Actions · GitLab CI/CD · Jenkins · Airflow · Kafka
-**Data** — PostgreSQL · MongoDB · Redis · Snowflake · Power BI · Tableau
-
-**Certifications** — Azure AI Engineer Associate (AI-102) · Azure AI Fundamentals (AI-900) · Azure Fundamentals (AZ-900)
-
----
-
-## Let's connect
-
-- [LinkedIn](https://www.linkedin.com/in/bhosale-sayali/)
-- [Portfolio](https://sayalibhosale16.github.io)
-- [Email](mailto:sayalibh2212@gmail.com)
-
----
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" /> Stack
 
 <p>
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SayaliBhosale16&show_icons=true&theme=radical" height="165" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayaliBhosale16&layout=compact&theme=radical" height="165" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-4B0082?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+</p>
+
+---
+
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28px" /> GitHub in Numbers
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SayaliBhosale16&show_icons=true&count_private=true&hide_border=true&title_color=f59e0b&icon_color=f59e0b&text_color=cbd5e1&bg_color=0f172a" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SayaliBhosale16&hide_border=true&background=0f172a&stroke=0f172a&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=cbd5e1&currStreakNum=cbd5e1&sideNums=cbd5e1&dates=94a3b8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SayaliBhosale16&bg_color=0f172a&color=f59e0b&line=f59e0b&point=ffffff&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SayaliBhosale16&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
+
+---
+
+<p align="center"><i>Pinned repos below → scroll down for the actual builds.</i></p>
